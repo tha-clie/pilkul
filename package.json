@@ -1,0 +1,21 @@
+{
+    "name": "pilkul",
+    "displayName": "Pilkul",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "pilkul",
+                "uiTheme": "vs-dark",
+                "path": "./themes/pilkul-color-theme.json"
+            }
+        ]
+    }
+}
